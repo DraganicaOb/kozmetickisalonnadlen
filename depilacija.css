@@ -1,0 +1,67 @@
+
+
+h1{
+    text-align: center;
+}
+body{
+    background-color: white;
+}
+
+#slika{
+    
+    width: 500px;
+    height: 300px;
+    position: relative;
+}
+#slika2{
+    
+    width: 500px;
+    height: 300px;
+}
+.container{
+    font-family: sans-serif;
+    font-size: medium;
+    font-style: oblique;
+}
+
+
+#slikadep{
+    
+    width: 1280px;
+    height: 600px;
+   padding-left: 0%;
+   padding-right: 0%;
+    
+   
+    
+}
+#hladna{
+   padding-left: 5%;
+   font-family: sans-serif;
+   font-style: italic;
+   text-align: center;
+}
+p{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15pt;
+   float: left;
+   text-align: center;
+ 
+}
+#topla{
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+
+    
+}
+h5{
+    font-size: 18px;
+    text-align: center;
+}
+
+footer{
+    
+    background-color: rgb(245, 245, 245);
+    
+}
